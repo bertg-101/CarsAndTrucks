@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAndTrucks", "CarsAndTrucks\CarsAndTrucks.csproj", "{BB0BB610-6343-44FA-ABA5-1FA5D6471599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLibrary", "AutoLibrary\AutoLibrary.csproj", "{1E989372-BA8B-4F0F-8D38-ABD05A253EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0BB610-6343-44FA-ABA5-1FA5D6471599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0BB610-6343-44FA-ABA5-1FA5D6471599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0BB610-6343-44FA-ABA5-1FA5D6471599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0BB610-6343-44FA-ABA5-1FA5D6471599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E989372-BA8B-4F0F-8D38-ABD05A253EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E989372-BA8B-4F0F-8D38-ABD05A253EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E989372-BA8B-4F0F-8D38-ABD05A253EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E989372-BA8B-4F0F-8D38-ABD05A253EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
